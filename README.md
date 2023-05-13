@@ -11,7 +11,7 @@ You can find the data in the three folders:
 The code is divided into the following files:
 
 1. **_Analyse_total_referrals_and_figure_2_**
-is used to calculate the total referrals for the pre- and post-implementation periods for services using the AI-enabled tool,    matche the services to most similar other services not using the tool, plot Figure 2 and perform the statistical tests for total referral analysis
+is used to calculate the total referrals for the pre- and post-implementation periods for services using the AI-enabled tool, match the services to most similar other services not using the tool, plot Figure 2 and perform the statistical tests for total referral analysis
 
 2. **_Analyse_demographics_and_figure_3_**
 is used to analyse the demogrpahic data for pre- and post-implementation for services using the AI-enabled self-referral tool and perform the statistical tests.
