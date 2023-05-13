@@ -16,7 +16,10 @@ is used to calculate the total referrals for the pre- and post-implementation pe
 2. _Analyse_demographics_and_figure_3_
 is used to analyse the demogrpahic data for pre- and post-implementation for services using the AI-enabled self-referral tool and perform the statistical tests.
 
-3. _Analyse_total_self_referrals_and_supplemental_figure_1_
+3. _Thematic-analysis-train-classifier-and-use-for-all-feedback_
+is used to train the supervised NLP classification model for the thematic analysis described in the paper, and then to analyse the 42,332 feedback entries. The data for used in this code is not made available due to because the information could compromise participants' privacy/consent.
+
+4. _Analyse_total_self_referrals_and_supplemental_figure_1_
 is used to calculate the total self-referrals for the pre- and post-implementation periods for services using the AI-enabled tool, define the matched services not using the tool (using the same services as for total referrals) and plot Supplemental Figure 1 and perform the statistical tests
 
 
