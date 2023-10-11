@@ -12,19 +12,16 @@ You can find the main data in the three folders:
 
 The code is divided into the following files:
 
-1. **_Analyse_total_referrals_and_figure_2_**
-is used to calculate the total referrals for the pre- and post-implementation periods for services using the AI-enabled tool, match the services to most similar other services not using the tool, plot Figure 2 and perform the statistical tests for total referral analysis
-
-2. **_Analyse_demographics_and_figure_3_**
-is used to analyse the demogrpahic data for pre- and post-implementation for services using the AI-enabled self-referral tool and perform the statistical tests.
+1. **_Analyse_total_referrals_and_figure_1_and_2_updated_**
+is used to calculate the total referrals for the pre- and post-implementation periods for services using the AI-enabled tool, match the services to most similar other services not using the tool, plot Figure 2 and perform the statistical tests for total referral analysis. In addition, it analyses the demographic data for pre- and post-implementation for services using the AI-enabled self-referral tool and the matched control services and plots Figure 3 and performs the statistical tests. There is also an option to match services on confounding variables and run statistical tests on whether services differ on the confounding variables in the pre-implementation period.
 
 3. **_Thematic-analysis-train-classifier-and-use-for-all-feedback_**
-is used to train the supervised NLP classification model for the thematic analysis described in the paper, and then to analyse the 42,332 feedback entries. The data for used in this code is not made available due to because the information could compromise participants' privacy/consent.
+is used to train the supervised NLP classification model for the thematic analysis described in the paper, and then to analyse the 42,332 feedback entries. The data used in this code is not made available because the participants did not provide explicit consent for sharing this data.
 
 4. **_Analyse_feedback_labels_per_demographic-groups_and_figure_4_and_supplemental_figure_2_**
-is used to analyse the feedback labels accoridng to the demographic groups to determine whether the proportions of individuals mentioning specific themes differed between minority and majority groups, and plot Figure 4 and Supplemental Figure 2. The data for used in this code is not made available due to because the information could compromise participants' privacy/consent.
+is used to analyse the feedback labels according to the demographic groups to determine whether the proportions of individuals mentioning specific themes differed between minority and majority groups, and plot Figure 3 and Supplemental Figure 4.The data used in this code is not made available because the participants did not provide explicit consent for sharing this data.
 
-5. **_Analyse_total_self_referrals_and_supplemental_figure_1_**
+6. **_Analyse_total_self_referrals_and_supplemental_figure_1_**
 is used to calculate the total self-referrals for the pre- and post-implementation periods for services using the AI-enabled tool, define the matched services not using the tool (using the same services as for total referrals) and plot Supplemental Figure 1 and perform the statistical tests
 
 
